@@ -20,8 +20,8 @@ En plus de la programmation, j'ai également une expérience dans des domaines t
 J'ai un appétit insatiable pour l'apprentissage et je m'investis dans tout ce qui me passionne, de la cuisine à la création d'applications à grande échelle.
 
 ## 📫 Comment me joindre
-- [github@o2cloud.com](mailto:github@o2cloud.com) - GitHub  
-- [security.github@o2cloud.com](mailto:security.github@o2cloud.com) - Sécurité
+- [github@o2cloud.fr](mailto:github@o2cloud.fr) - GitHub  
+- [security.github@o2cloud.fr](mailto:security.github@o2cloud.fr) - Sécurité
 
 [![github](https://img.icons8.com/color/2x/github--v1.png)](https://github.com/o2cloud-fr)
 
