@@ -1,6 +1,6 @@
 # Bonjour! 👋
 
-## 💼 Présentation du Développeur Full Stack
+## 💼 Présentation Développeur Full Stack
 
 Je suis un développeur Full Stack spécialisé dans les technologies telles que .NET Framework, ASP.NET, PHP et Node.js, avec plus de 8 ans d'expérience dans la conception, le développement et la gestion d'applications Web complexes ainsi que de frameworks internes.
 
@@ -13,7 +13,7 @@ Je suis un développeur Full Stack spécialisé dans les technologies telles que
 
 ## 🔭 Expérience Professionnelle
 
-En plus de la programmation, j'ai également une expérience dans des domaines décisionnels tels que le développement de produits et l'embauche.
+En plus de la programmation, j'ai également une expérience dans des domaines décisionnels tels que l'administration système en datacenter.
 
 ## 🌱 Passion et Engagement
 
