@@ -27,6 +27,9 @@ J'ai un appétit insatiable pour l'apprentissage et je m'investis dans tout ce q
 
 
 <img src="https://o2cloud.fr/logo/o2Cloud.png" width="100" height="100">
+
 <img src="https://o2infra.fr/logo/o2Infra.png" width="100" height="100">
+
 <img src="https://o2infra.fr/logo/o2VPN.png" width="100" height="100">
+
 <img src="https://o2infra.fr/logo/o2Mail.png" width="100" height="100">
