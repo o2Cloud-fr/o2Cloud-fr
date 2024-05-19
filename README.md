@@ -26,10 +26,9 @@ J'ai un appétit insatiable pour l'apprentissage et je m'investis dans tout ce q
 [![github](https://img.icons8.com/color/2x/github--v1.png)](https://github.com/o2cloud-fr)
 
 
-<img src="https://o2cloud.fr/logo/o2Cloud.png" width="100" height="100">
-
-<img src="https://i.imgur.com/BJprFqG.png" width="100" height="100">
-
-<img src="https://i.imgur.com/nZSjHgx.png" width="100" height="100">
-
-<img src="https://i.imgur.com/O6Mjqlq.png" width="100" height="100">
+<div style="display: flex;">
+    <img src="https://o2cloud.fr/logo/o2Cloud.png" width="100" height="100">
+    <img src="https://i.imgur.com/BJprFqG.png" width="100" height="100">
+    <img src="https://i.imgur.com/nZSjHgx.png" width="100" height="100">
+    <img src="https://i.imgur.com/O6Mjqlq.png" width="100" height="100">
+</div>
