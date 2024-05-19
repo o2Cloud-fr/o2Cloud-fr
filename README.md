@@ -13,7 +13,7 @@ Je suis un développeur Full Stack spécialisé dans les technologies telles que
 
 ## 🔭 Expérience Professionnelle
 
-En plus de la programmation, j'ai également une expérience dans des domaines décisionnels tels que l'administration système en datacenter.
+En plus de la programmation, j'ai également une expérience dans des domaines tels que l'administration système en datacenter.
 
 ## 🌱 Passion et Engagement
 
