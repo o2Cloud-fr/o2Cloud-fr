@@ -24,3 +24,9 @@ J'ai un appétit insatiable pour l'apprentissage et je m'investis dans tout ce q
 - [security.github@o2cloud.com](mailto:security.github@o2cloud.com) - Sécurité
 
 [![github](https://img.icons8.com/color/2x/github--v1.png)](https://github.com/o2cloud-fr)
+
+
+<img src="https://o2cloud.fr/logo/o2Cloud.png" width="100" height="100">
+<img src="https://o2infra.fr/logo/o2Infra.png" width="100" height="100">
+<img src="https://o2infra.fr/logo/o2VPN.png" width="100" height="100">
+<img src="https://o2infra.fr/logo/o2Mail.png" width="100" height="100">
