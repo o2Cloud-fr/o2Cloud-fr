@@ -27,7 +27,7 @@ J'ai un appétit insatiable pour l'apprentissage et je m'investis dans tout ce q
 <a href="https://discord.gg/CpezuWdSzf"><img src="https://cdn.iconscout.com/icon/free/png-256/free-discord-3691244-3073764.png" width="85" height="85"></a>
 
 <div style="display: flex;">
-    <img src="https://o2cloud.fr/logo/o2Cloud.png" width="100" height="100">
+    <img src="https://o2cloud.fr/logo/0.png" width="100" height="100">
     <img src="https://i.imgur.com/BJprFqG.png" width="100" height="100">
     <img src="https://i.imgur.com/nZSjHgx.png" width="100" height="100">
     <img src="https://i.imgur.com/O6Mjqlq.png" width="100" height="100">
